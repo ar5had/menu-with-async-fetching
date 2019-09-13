@@ -1,0 +1,8 @@
+.inline-menu {
+    width: 100%;
+    font-size: 1rem;
+}
+
+.inline-menu .inline-menu__dropdown-indicator {
+    display: none;
+}
